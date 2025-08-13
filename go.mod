@@ -1,4 +1,4 @@
-module pit-viper
+module github.com/merlindrones/pit-viper
 
 go 1.24
 
