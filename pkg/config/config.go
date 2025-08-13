@@ -10,9 +10,9 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
+	"github.com/merlindrones/pit-viper/pkg"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"pit-viper/pkg"
 )
 
 //go:generate go run ../../tools/gen_config_list/main.go
